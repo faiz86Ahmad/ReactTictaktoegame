@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactTictaktoegame/static/css/main.ef9ba6ef.chunk.css",
+    "main.js": "/ReactTictaktoegame/static/js/main.08707ebd.chunk.js",
+    "main.js.map": "/ReactTictaktoegame/static/js/main.08707ebd.chunk.js.map",
+    "runtime-main.js": "/ReactTictaktoegame/static/js/runtime-main.620314e4.js",
+    "runtime-main.js.map": "/ReactTictaktoegame/static/js/runtime-main.620314e4.js.map",
+    "static/css/2.009c3f9c.chunk.css": "/ReactTictaktoegame/static/css/2.009c3f9c.chunk.css",
+    "static/js/2.ceaf332b.chunk.js": "/ReactTictaktoegame/static/js/2.ceaf332b.chunk.js",
+    "static/js/2.ceaf332b.chunk.js.map": "/ReactTictaktoegame/static/js/2.ceaf332b.chunk.js.map",
+    "static/js/3.4093244d.chunk.js": "/ReactTictaktoegame/static/js/3.4093244d.chunk.js",
+    "static/js/3.4093244d.chunk.js.map": "/ReactTictaktoegame/static/js/3.4093244d.chunk.js.map",
+    "index.html": "/ReactTictaktoegame/index.html",
+    "static/css/2.009c3f9c.chunk.css.map": "/ReactTictaktoegame/static/css/2.009c3f9c.chunk.css.map",
+    "static/css/main.ef9ba6ef.chunk.css.map": "/ReactTictaktoegame/static/css/main.ef9ba6ef.chunk.css.map",
+    "static/js/2.ceaf332b.chunk.js.LICENSE.txt": "/ReactTictaktoegame/static/js/2.ceaf332b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ReactTictaktoegame/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620314e4.js",
+    "static/css/2.009c3f9c.chunk.css",
+    "static/js/2.ceaf332b.chunk.js",
+    "static/css/main.ef9ba6ef.chunk.css",
+    "static/js/main.08707ebd.chunk.js"
+  ]
+}
