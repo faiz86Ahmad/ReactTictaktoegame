@@ -110,7 +110,7 @@ const App = () => {
           )}
           <div className="grid">
             {itemArray.map((item, index) => (
-              <Card color="warning" onClick={() => changeItem(index)}>
+              <Card color="danger" onClick={() => changeItem(index)}>
                 <CardBody className="box">
                   <Icon name={item} />
                 </CardBody>
